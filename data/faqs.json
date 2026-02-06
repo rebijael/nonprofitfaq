@@ -1,0 +1,106 @@
+[
+  {
+    "category": "Mission and Impact",
+    "question": "What is the organization’s primary mission and purpose?",
+    "answer": "Our primary mission is to create positive social impact by addressing community needs through inclusive, volunteer-driven initiatives and awareness programs."
+  },
+  {
+    "category": "Mission and Impact",
+    "question": "What specific community need or problem are you addressing?",
+    "answer": "We focus on supporting underserved communities by improving access to resources, education, and opportunities for meaningful engagement."
+  },
+  {
+    "category": "Mission and Impact",
+    "question": "How do you measure and report the effectiveness of your programs?",
+    "answer": "We measure effectiveness through community participation, program outcomes, feedback from beneficiaries, and periodic internal evaluations, which help guide continuous improvement."
+  },
+  {
+    "category": "Mission and Impact",
+    "question": "What makes your organization different from others in the same field?",
+    "answer": "Our organization emphasizes human-centered approaches, transparency, and collaboration, ensuring that programs are designed with empathy and community input at their core."
+  },
+  {
+    "category": "Mission and Impact",
+    "question": "What are the biggest obstacles in achieving your mission?",
+    "answer": "Like many nonprofits, we face challenges such as limited resources, scaling impact sustainably, and ensuring long-term community engagement."
+  },
+
+  {
+    "category": "Donations and Financial Transparency",
+    "question": "Are donations to this organization tax-deductible?",
+    "answer": "Donations are generally tax-deductible depending on local regulations and the donor’s jurisdiction. Donors are encouraged to consult official documentation or a tax professional."
+  },
+  {
+    "category": "Donations and Financial Transparency",
+    "question": "What percentage of donations goes directly to programs?",
+    "answer": "A significant portion of donations is directed toward program activities, with remaining funds supporting essential operational and administrative needs."
+  },
+  {
+    "category": "Donations and Financial Transparency",
+    "question": "Where can I find your financial documents such as Form 990?",
+    "answer": "Financial documents and reports are made available through our official communication channels to ensure transparency and accountability."
+  },
+  {
+    "category": "Donations and Financial Transparency",
+    "question": "How can I make a donation, and what payment methods do you accept?",
+    "answer": "Donations can be made through our authorized platforms, which may include online transfers, cards, or other approved digital payment methods."
+  },
+  {
+    "category": "Donations and Financial Transparency",
+    "question": "Do you accept non-cash gifts such as stocks, vehicles, or items?",
+    "answer": "Non-cash contributions may be accepted based on organizational needs and policies. Supporters are encouraged to contact us directly to discuss such contributions."
+  },
+
+  {
+    "category": "Getting Involved",
+    "question": "What volunteer opportunities are available?",
+    "answer": "Volunteer opportunities include community outreach, event support, content creation, awareness campaigns, and skill-based contributions."
+  },
+  {
+    "category": "Getting Involved",
+    "question": "How can I sign up for updates or newsletters?",
+    "answer": "You can sign up for updates by subscribing through our website or by registering interest through our official communication channels."
+  },
+  {
+    "category": "Getting Involved",
+    "question": "Do you have upcoming events or fundraisers I can attend?",
+    "answer": "We regularly organize events and fundraisers. Information about upcoming activities is shared through our website and social platforms."
+  },
+  {
+    "category": "Getting Involved",
+    "question": "How can I partner with or advocate for your organization?",
+    "answer": "Partnerships and advocacy opportunities are welcomed. Interested individuals or organizations can reach out to explore collaboration possibilities."
+  },
+
+  {
+    "category": "Organization Governance",
+    "question": "Is the organization a registered 501(c)(3) nonprofit?",
+    "answer": "Nonprofit registration status depends on jurisdiction. Official registration and compliance details are shared through formal documentation."
+  },
+  {
+    "category": "Organization Governance",
+    "question": "Who is on your Board of Directors, and what is their role?",
+    "answer": "The Board of Directors provides governance, strategic oversight, and accountability to ensure the organization remains aligned with its mission."
+  },
+  {
+    "category": "Organization Governance",
+    "question": "Does the organization have a conflict of interest policy?",
+    "answer": "Yes, ethical guidelines and conflict of interest policies are followed to promote transparency, integrity, and responsible governance."
+  },
+
+  {
+    "category": "Startup Nonprofits",
+    "question": "What are the legal steps to forming a nonprofit?",
+    "answer": "Forming a nonprofit typically involves defining a mission, registering with appropriate authorities, establishing governance structures, and complying with legal requirements."
+  },
+  {
+    "category": "Startup Nonprofits",
+    "question": "How do I apply for tax-exempt status?",
+    "answer": "Applying for tax-exempt status generally requires submitting formal applications and supporting documents to relevant regulatory bodies."
+  },
+  {
+    "category": "Startup Nonprofits",
+    "question": "How do I find a board of directors?",
+    "answer": "Board members are often recruited based on shared values, relevant expertise, and a strong commitment to the organization’s mission."
+  }
+]
