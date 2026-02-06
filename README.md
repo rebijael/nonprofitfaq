@@ -31,10 +31,10 @@ The system is designed to be simple, reliable, and easy to use.
 
 ## Tech Stack
 
-- Programming Language: Python  
-- Framework: Streamlit  
-- AI Logic: Prompt-based language model interaction  
-- Data Source: Structured FAQ data stored in JSON format  
+- **Programming Language**: Python  
+- **Framework**: Streamlit  
+- **AI Logic**: Prompt-based language model interaction  
+- **Data Source**: Structured FAQ data stored in JSON format  
 
 ---
 
